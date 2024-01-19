@@ -5,7 +5,7 @@
 </div>
 
  
-## [Project Page](https://world-dreamer.github.io) | [Paper](https://arxiv.org/pdf/TODO.pdf)
+## [Project Page](https://world-dreamer.github.io) | [Paper](https://arxiv.org/pdf/2401.09985.pdf)
 
 # Abstract 
 
@@ -41,7 +41,7 @@ If this work is helpful for your research, please consider citing the following 
 @article{wang2023worlddreamer,
       title={WorldDreamer: Towards General World Models for Video Generation via Predicting Masked Tokens}, 
       author={Xiaofeng Wang and Zheng Zhu and Guan Huang and Boyuan Wang and Xinze Chen and Jiwen Lu},
-      journal={arXiv preprint arXiv:TODO},
+      journal={arXiv preprint arXiv:2401.09985},
       year={2024}
 }
 ```
